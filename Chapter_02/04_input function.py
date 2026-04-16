@@ -1,0 +1,35 @@
+a = 55
+
+a = input("enter your number:")
+print(a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
